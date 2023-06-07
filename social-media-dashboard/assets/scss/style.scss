@@ -221,8 +221,8 @@ body {
   @media screen and (min-width: 48rem) {
     margin: 0 auto;
     grid-template-columns: repeat(auto-fill, 14.0625rem);
-    column-gap: 0;
-    justify-content: space-between;
+    column-gap: 1.25rem;
+    justify-content: center;
   }
 }
 .today-container__card {
