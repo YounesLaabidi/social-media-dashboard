@@ -223,7 +223,7 @@ body::after {
     margin: 0 auto;
     grid-template-columns: repeat(auto-fill, 14.0625rem);
     -moz-column-gap: 20px;
-         column-gap: 20px;
+    column-gap: 1.25rem;
     justify-content: center;
   }
 }
