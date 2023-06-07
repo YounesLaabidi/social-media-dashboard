@@ -222,9 +222,9 @@ body::after {
   .today-container {
     margin: 0 auto;
     grid-template-columns: repeat(auto-fill, 14.0625rem);
-    -moz-column-gap: 0;
-         column-gap: 0;
-    justify-content: space-between;
+    -moz-column-gap: 20px;
+         column-gap: 20px;
+    justify-content: center;
   }
 }
 
